@@ -1,0 +1,6 @@
+Did you eat Breakfast today?;Yes;No/6
+Where do you eat Breakfast;Home/6;Work/3;Other Place/4
+Did you make your breakfast?;Yes;No
+Along with breakfast did you purchase other things ?;Yes/5;No/6
+What did you purchase with breakfast?;Drink;Beverage;Others
+Thanks for answering the Survey

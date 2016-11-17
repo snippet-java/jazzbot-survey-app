@@ -1,0 +1,10 @@
+---
+applications:
+- path: target/SurveyApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: jazzbot-survey-app-test
+  host: jazzbot-survey-app-test
+  disk_quota: 1024M
+  buildpack: liberty-for-java
